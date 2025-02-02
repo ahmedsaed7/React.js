@@ -1,0 +1,7 @@
+- Class Component =>
+    -- In This Type Of Component, To Access Any State Or Method Inside This Component, You Must Begin It With This Keyword
+    -- Owner Object لتشير الى ال This لازم تسبقها بي Component لكي تقدر توصل لأي خاصية أو دالة داخل ال
+
+- render() =>
+    -- You Must Write All Code That You Need To Display It Inside This Function To Execute | Run It In The Application
+    -- Render داخل ال Application لازم تكتب أي كود تريد عرضه في ال

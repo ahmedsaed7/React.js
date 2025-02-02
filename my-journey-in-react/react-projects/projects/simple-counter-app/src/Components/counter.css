@@ -1,0 +1,17 @@
+.continer{
+    width: 90px;
+    height: 50px;
+    padding: auto;
+    border-radius: 5px;
+    background-color: burlywood;
+    border: 2px black solid;
+}
+.btn{
+    width: 20px;
+    height: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: 2px black solid;
+    cursor: pointer;
+}

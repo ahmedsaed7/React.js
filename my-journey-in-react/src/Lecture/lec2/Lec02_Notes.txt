@@ -1,0 +1,22 @@
+- useState(initial-value) =>
+    -- You Can Use It To Create State To Store Data, And To Update It By The setState
+    -- تقدر تستخدمها لكي تنشيء زي مخزن تقوم بتخزين فيه بيانات؛ ب جانب إمكانية التعديل عليها
+
+- Array.map() =>
+    -- You Can Use It To Iterate On Each Element In The Array, And Execute A Specific Logic
+    -- و تنفذ أمر معين Array تقدر تستخدمها لكي تمر على كل عنصر في ال
+
+
+===== Function Component VS Class Component =====
+
+- Function Component =>
+    1- Short To Write ... كتابته بتكون ابسط
+    2- Stateless ... انت بتستخدم الاكواد الجاهزة الي بتنفذ لك الحاجه دي
+    3- To Create UI Components ... انت بتستخدمه لكي تنشيء وجهة المستخدم
+    4- Props Is Optional ... استخدامك لها بيكون اختياري لوجود طرق أخرى أفضل
+
+- Class Component =>
+    1- Long To Write ... كتابته بتكون طويله و شبه معقدة شوية
+    2- Statefull ... انت بتنشيء كل حاجه محتاجها من الأول بطريقتك
+    3- To Fetch Data From APIs ... انت بتستخدمه لكي تستدعي البيانات لعرضهاو التعامل معاها
+    4- Lifecycle Hooks ... بتوضح لك السيستم الي بيتم تنفيذ بيه البروجيكت داخل الكواليس

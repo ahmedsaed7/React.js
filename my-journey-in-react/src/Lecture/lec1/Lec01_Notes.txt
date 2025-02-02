@@ -1,0 +1,32 @@
+- ReactDom => 
+    -- Is A Ract Library That You Can Use It To Interact With The Document Of HTML
+    -- Document هي مكتبة داخل الريأكت تقدر تستخدمها لكي تتعامل مع ال
+
+- Render => 
+    -- Is The Idea To Trigger | Run The Application
+    -- Browser بتاعك على ال App هي فكرة أنك تشغل ال
+
+- Import => 
+    -- It's The Idea That You Get A Certain Code To Use From Another File
+    -- هي فكرة أنك تستدعي كود معين لتستخدمه من ملف أخر 
+
+- Export => 
+    -- It's The Idea That You Release A Certain Code To Use In Another File
+    -- هي فكرة أنك تصدر كود معين لتستخدمه في ملف أخر
+
+- React.createElement( type-of-element , props, content-of-element) => 
+    -- You Can Use It To Create HTML Element Inside The Document
+    -- Document تقدر تستخدمها لكي تنشيء عنصر داخل ال
+
+- JSX => 
+    -- Is Stands To JavaScript XML, You Can Use It To Write HTML In JS File
+    -- JavaScript داخل في فايل ال HTML هي فكرة أنك تكتب كود  
+
+- Component =>
+    -- Is A Block Of Reusable Code That Wrote To A Certain Task, And Can Use It More Than Once
+    -- هو عبارة عن مجموعة من الأكواد كتبت لغرض معين؛ بالإضافة يمكن استخدامها أكثر من مره
+
+- Props => 
+    -- Is Just A JavaScript Object That You Can Use It To Send Data From One Component To Another
+    -- للأخر Component تقدر تستخدمه لكي ترسل بيانات من Object هو عبارة عن 
+

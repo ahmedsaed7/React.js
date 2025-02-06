@@ -59,7 +59,7 @@ class Lec03_Part02 extends Component {
   render() {
     return (
       <>
-        <div className="container">
+        <div className="container-lec3">
           {this.state.students.map((element) => (
             <Student key={element.id} student={element} />
           ))}

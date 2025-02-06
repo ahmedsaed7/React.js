@@ -6,7 +6,7 @@ import "./Lec01.css"
 const Lec01_Main = () => {
   return (
     <>
-      <div className="container">
+      <div className="container-lec1">
         <Person1
           name="Islam"
           age="21"

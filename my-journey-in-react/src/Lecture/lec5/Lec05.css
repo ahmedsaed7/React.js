@@ -1,4 +1,4 @@
-.container-lec2 {
+.container {
   width: 90%;
   padding: 15px;
   display: flex;
@@ -11,38 +11,38 @@
 
 .content-btns {
   width: 50%;
-  padding: 15px;
+  padding: 7px;
   display: flex;
-  justify-content:space-around;
-  margin: auto;
+  justify-content: space-evenly;
 }
 
 .content-btns > button {
-  width: 100px;
+  width: 180px;
   height: 33px;
   font-size: 19px;
   border: 1px solid brown;
-  border-radius: 10px;
+  border-radius: 7px;
   background-color: lightskyblue;
   color: brown;
-  cursor: pointer;
 }
 
 .content-txt {
-  width: 50%;
+  width: 40%;
   text-align: center;
-  font-size: 24px;
-  font-weight: bold;
-  background-color: white;
-  margin: auto;
-  border: 2px solid brown;
-  border-radius: 5px;
+  font-size: 20px;
 }
 
-.person-info {
-  width: 25%;
-  padding: 15px;
-  margin-bottom: 10px;
+span {
+  color: rgb(78, 196, 229);
+}
+
+.timer-content{
+  width: 35%;
+  height: 50%;
+  background-color: gray;
   text-align: center;
-  border: 1px solid brown;
+  border-radius: 7px;
+  padding: 5px;
+  border: 2px solid rgb(73, 71, 71);
+  color: bisque;
 }

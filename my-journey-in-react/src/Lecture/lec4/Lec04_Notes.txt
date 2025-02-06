@@ -1,0 +1,16 @@
+- Math.random() =>
+    -- You Can Use It To Create Random Number From 0.00 To 0.99
+    -- To Create Random Number From Num1 To Num2; You Can Create It By [Num1 + Math.random() * (Num2 - Num1)]
+    -- تقدر تستخدمها لكي تنشيء رقم عشوائي ما بين أي رقمين 
+
+- Math.floor() =>
+    -- You Can Use It To Ignore Any Fractional Digits From The Created Random Number
+    -- تقدر تستخدمها لكي تتجاهل الجزء العشري من الرقم العشوائي الي جيبته
+
+- Math.trunc() =>
+    -- You Can Use It To Ignore Any Fractional Digits From The Created Random Number
+    -- تقدر تستخدمها لكي تتجاهل الجزء العشري من الرقم العشوائي الي جيبته
+
+- (Num).toFixed(2) =>
+    -- You Can Use It To Fixed The Fractional Digits To 2 Digits Only
+    -- تقدر تستخدمها لكي تقلل الجزء العشري الى رقمين فقط

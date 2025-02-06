@@ -1,0 +1,27 @@
+- BrowserRouter => 
+    -- It Can Be Used To Configure The Browser's React Routing.
+    -- في الموقع بتاعك Routing انت بتستخدمها لكي تعرف المتصفح انك بتستخدم ال
+
+- Routes => 
+    -- It Can Be Used To Define Inside It Any Route In Your App .
+    -- عامله في موقعك Route البداية و النهاية أي Tag انت بتستخدمها لكي تعرف مابين
+
+- Link =>
+    -- It Can Be Used In The Same Way As An Anchor Tag To Generate Links To Different Pages Or Sections Within The Same Page.
+    -- تقدر تستخدمه لكي تنشيء لينك ينقلك الى صفحة أخرى أو سيكشن داخل نفس الصفحة
+
+- Navlink =>
+    -- It Can Be Used In The Same Way As An Anchor Tag To Generate Links To Different Pages Or Sections Within The Same Page.
+    -- In Addition To, Whether Our Link Is "Active" Or "Pending" Is Something We Can Determine. We Can Modify These States To
+       Suit Our Requirements And Show The Link Status In A Different Way.
+    -- In Addition To, NavLink Allows You To Write An Inline Style Inside The Start Tag.
+    -- ؛ بالإضافة الى بيعرفك حالة اللينك من الممكن استخدامها لتطبيق استيل معينLink تقدر تستخدمه زي ال
+    -- Component B الى Component A أي اتنقلت من ال From-To بيعرض لك التغيير الي حدث ك Render اثناءا مرحلة ال
+
+- useNavigate()
+    -- By Pressing The Button, You Can Use It To Move Onto Another Component.
+    -- Notes That; To Move Back Onto The Previous Component, Use The Same Name Of The Navigator-Variable.
+    -- Navigator(-1) ... Go Back One Step, Means The First One Previous Component.
+    -- Button أخر من خلال الضغط على Component تقدر تستخدمها لكي تنتقل ال
+
+

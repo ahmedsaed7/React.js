@@ -1,0 +1,39 @@
+.footer {
+    background-color: #776c6c;
+    padding: 2rem 0;
+    text-align: center; 
+    margin-top: 10px;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: 1px solid  hsl(182, 56%, 83%);
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .col {
+    flex: 1;
+    margin-bottom: 1rem;
+    
+  }
+  .col ul li{
+    list-style: none;
+  }
+  .col ul li a {
+    
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 23px;
+    font-weight: bolder;
+  }
+  .copyright {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+  }

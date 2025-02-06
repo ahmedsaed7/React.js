@@ -55,7 +55,7 @@ const Lec02_Part02 = () => {
 
   return (
     <>
-      <div className="container">
+      <div className="container-lec2">
         {students.map((element) => (
           <Student key={element.id} student={element} />
         ))}

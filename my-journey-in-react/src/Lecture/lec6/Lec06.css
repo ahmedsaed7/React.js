@@ -1,0 +1,65 @@
+.container-lec6 {
+  width: 90%;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 20px auto;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+}
+
+.content-inputs-lec6,
+.content-text-lec6 {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.content-inputs-lec6 input {
+  width: 250px;
+  height: 25px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 2px solid rgb(24, 142, 169);
+}
+
+.content-btns > button {
+  width: 180px;
+  height: 33px;
+  margin-right: 10px;
+  font-size: 19px;
+  border: 1px solid brown;
+  border-radius: 15px;
+  background-color: lightskyblue;
+  color: brown;
+}
+
+.container > p {
+  font-size: 24px;
+}
+
+.content-text span {
+  color: brown;
+}
+
+span {
+  color: brown;
+}
+
+.cont{
+  background-color: rgb(210, 221, 217);
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-size: large;
+  font-weight: bolder;
+}

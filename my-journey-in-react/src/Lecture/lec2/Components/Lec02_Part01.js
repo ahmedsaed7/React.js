@@ -21,7 +21,7 @@ const Lec02_Part01 = () => {
 
   return (
     <>
-      <div className="container">
+      <div className="container-lec2">
         <div className="content-txt">{num}</div>
         <div className="content-btns">
           <button onClick={add}>Add</button>

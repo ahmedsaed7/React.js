@@ -1,0 +1,29 @@
+- Component =>
+    -- It Can Be Used To Create A Slice Of Reusable Code That Is Needed Repeatedly.
+    -- تقدر تستخدمه لكي تنشيء كود معين محتاج تستخدمه أكثر من مرة
+
+- Children => 
+    -- It Can Be Used To Refer To Any Content Wrote Between Opened And Closed Tags
+    -- البداية و النهاية Tag تقدر تستخدمها لكي تصل لأي محتوى مكتوب ما بين
+
+- React.memo(Component) => 
+    -- Use It To Store The Component In The Memory, And See If This Component Has Changed;
+       If So, The App Will Either Re-render It Or Get It From The Memory, Depending On Whether It Is True Or False.
+    --  ؛ لو نعم هيعيد تحميله تاني؛ لو لا هيستدعيه من الذاكرةComponent يعرف إذا حدث أي تغيير في ال App تقدر تستخدمها لكي تجعل 
+    
+- useCallback(callback-function, [dependancy-list]) =>
+    -- It Can Be Used To Save The Function In Memory As A Variable That Is Re-render Only The Component If It Has Been Called Inside It.
+    -- المعتمد عليه فقط إذا تم تنفيذها Component في الذاكرة ك متغير لكي يتم إعادة تحميل ال Function تقدر تستخدمها لكي تخزن ال
+
+- useMemo(callback-function, [dependancy-list]) =>
+    -- It Can Be Used To Save The Returned Value From The Function In The Memory, And Use It As A Value
+    -- داخل الذاكرة Function تقدر تستخدمها لكي تحفظ القيمة الناتجة من تنفيذ ال
+
+- useRef() =>
+    -- It Can Be Used To Navigate To The HTML Element And Perform Certain Actions On It, Instead To Js-Dom
+    -- Js-Dom معين بديل ال Event | Action و تنفذ عليه HTML تقدر تستخدمها لكي تشير الى أي عنصر
+
+- ref1.current =>
+    -- The Current Property Here Refer To The HTML Element Which This ref1 Navigate To It.
+    -- ده بيشير اليه Ref هنا دي بتعبر عن العنصر الي ال
+

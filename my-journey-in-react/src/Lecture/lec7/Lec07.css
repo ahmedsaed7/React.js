@@ -1,0 +1,32 @@
+.container {
+  width: 90%;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px auto;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+}
+
+button {
+  width: 250px;
+  height: 33px;
+  font-size: 19px;
+  border: 1px solid rgb(42, 132, 165);
+  border-radius: 10px;
+  background-color: rgb(135, 187, 250);
+  color: rgb(141, 27, 141);
+}
+
+.content-txt {
+  width: 30%;
+  height: 120px;
+  text-align: center;
+  font-size: 20px;
+}
+
+span {
+  color: rgb(62, 156, 73);
+}

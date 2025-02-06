@@ -1,0 +1,29 @@
+- Relative Link =>
+    -- This Is The Link Which Related To A Parent Link 'Parent Component'
+    -- بتظهر داخله Parent دي بتعبر عن اللينكات الي ليها
+
+- Outlet =>
+    -- It Can Be Used To Permit Rendering Of The Component Inside Of Its Parent Component.
+    -- ليه Parent Component داخل Component أي Render تقدر تستخدمها لكي تسمح بظهور أي
+
+- useParams() =>
+    -- All Of The Parameters From The Rendered Route Path Can Be Obtained Using It.
+    -- المرسلة في المسار Paramters تقدر تستخدمه لكي تستدعي كل ال
+
+- useSearchParams() =>
+    -- It Can Be Utilized To Filter Data Based On A Particular Parameter That Is Passed In The Path.
+Path معين تم ارساله في ال Parameter على البيانات التي تريد عرضها بناءاً على Filter تقدر تستخدمه لكي تعمل    -- 
+
+- SEARCH =>
+
+    1- React.lazy() :
+        -- https://legacy.reactjs.org/docs/code-splitting.html
+    
+    2- Custom Hook :
+        -- https://legacy.reactjs.org/docs/hooks-custom.html
+           
+    3- Authentication :
+        -- https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5
+        -- https://dev.to/tienbku/authentication-authorization-with-react-js-example-18e
+        -- https://dev.to/jsandaruwan/how-to-implement-authentication-and-authorization-in-react-i99
+        -- https://www.freecodecamp.org/news/react-passport-authentication/ 

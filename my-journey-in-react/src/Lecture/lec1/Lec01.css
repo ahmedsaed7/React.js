@@ -1,17 +1,18 @@
-.container {
-  width: 90%;
+.container-lec1 {
+  width: 80%;
   padding: 15px;
   display: flex;
   margin: 20px auto;
   justify-content: space-evenly;
-  background-color: rgb(218, 209, 198);
+  background-color: rgb(190, 188, 185);
   border-radius: 5px;
-}
+  flex-direction: row;
+} 
 
 .person-info {
-  width: 25%;
+  width: 20%;
   padding: 15px;
   text-align: center;
-  border: 2px solid rgb(150, 185, 216);
+  border: 2px solid rgb(14, 140, 249);
   border-radius: 10px;
 }

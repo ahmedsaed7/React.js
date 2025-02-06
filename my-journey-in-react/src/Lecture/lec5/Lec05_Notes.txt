@@ -1,0 +1,12 @@
+- useEffect(callback-function, dependancy-list) =>
+    -- It Can Be Used To Handle Or Execute Specific Code In Response To Any Changes Made To A Certain Element Or Elements.
+    -- تقدر تستخدمها لكي تنفذ كود معين بناءا على تغيير حدث في قيمة أو عنصر معين
+
+1- This can be used to render the callback function based on any changes made to a particular element.
+    -- useEffect(callback-function, [specific-element])
+
+2- It can be used to render the callback function based on any changes that take place.
+    -- useEffect(callback-function)
+
+3- It Can Be Used To Render The Callback-Function Once
+    -- useEffect(callback-function, [])

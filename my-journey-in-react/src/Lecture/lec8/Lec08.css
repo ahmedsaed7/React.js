@@ -1,0 +1,33 @@
+.container-route {
+  width: 95%;
+  margin: 10px auto;
+}
+
+.container {
+  background-color: white;
+  justify-content: space-evenly;
+}
+
+nav {
+  display: flex;
+  height: 30px;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+}
+
+nav .links {
+  width: 30%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.student-container {
+  width: 95%;
+  margin: 10px auto;
+}
+
+.student-container p {
+  font-size: 20px;
+}

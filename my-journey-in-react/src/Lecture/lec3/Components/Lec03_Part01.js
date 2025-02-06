@@ -38,7 +38,7 @@ class Lec03_Part01 extends Component {
   render() {
     return (
       <>
-        <div className="container">
+        <div className="container-lec3">
         <div className="content-txt">{this.state.num}</div>
           <div className="content-btns">
             <button onClick={this.add}>Add</button>

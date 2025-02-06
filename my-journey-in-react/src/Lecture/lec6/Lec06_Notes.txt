@@ -1,0 +1,39 @@
+- createContext() =>
+    -- It Can Be Used To Create A Variable That Holds Data That You Need For A Different Component. 
+    -- تانية Components تقدر تستخدمه لكي تخزن بيانات معينة محتاج أنك ترسلها لي
+
+- context.Provider =>
+    -- It Can Be Used To Transfer The Stored Data To An Additional Component
+    -- تانية Components تقدر تستخدمه لكي ترسل البيانات لي
+
+- context.Consumer =>
+    -- It Can Be Used To Retrive The Stored Data From Another Component
+    -- تانية Components تقدر تستخدمه لكي تستقبل البيانات من
+
+- useContext(context) =>
+    -- Rather Than Using Context.Consumer, You Can Use It To Consume The Stored Data From Another Component.
+    -- تانية Components طريقة أخرى و أفضل تقدر تستخدمها لكي تستقبل البيانات من 
+
+- useReducer(reducer, initialState) =>
+    -- It Can Be Used To Return A New State And Manage State Values Based On Certain Actions That Have Occurred.
+    -- معين action بناءا على state تقدر تستخدمها لكي تدير التغيير في قيمة ال
+
+- dispatch(action) =>
+    -- It Can Be Used As A Way To Carrying Out A Certain Action On The State.
+    -- state معين على ال action تقدر تستخدمها ك وسيلة لكي تنفذ
+
+
+===== useState() | useReducer() =====
+
+1- Type Of State
+    -- useState => Number & String & Boolean
+    -- useReducer => Array & Object
+
+2- Number Of State Transitions
+    -- useState => Few Numbers
+    -- useReducer => Long Numbers
+
+3- Complexity Of Logic
+    -- useState => Simple Logic
+    -- useReducer => Complex Logic
+
